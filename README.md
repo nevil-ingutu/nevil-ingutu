@@ -1,6 +1,7 @@
 👋 Hey there! I'm Nevil Ingutu, a 🖥️ code-loving programmer who writes code for a living 💻.
 My expertise lies in 🐍 Python, 🟢 Node.js, and my favorite framework - 🔥 Flutter. 
 I ☕ love coffee almost as much as I love coding, and you can often find me sipping a cup while writing code.
+![SoExcited~GIF](https://user-images.githubusercontent.com/129394434/234642202-4b2cf3cb-bcc7-4b3a-9e00-5b7842ce64f1.gif)
 
 When I'm not coding or drinking coffee, I'm probably 🎮 gaming on my PC. 
 Some of my favorite titles include 🌌 No Man's Sky and 🚗 Forza Horizon.
